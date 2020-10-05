@@ -2,7 +2,6 @@
 /**
  * Write a description of class VideoGame here.
  *
- * @author Cheung Tin Ho Benjamin 19073365d
  */
 public class VideoGame extends Item
 {
