@@ -2,7 +2,6 @@
 /**
  * Write a description of class Video here.
  *
- * @author Cheung Tin Ho Benjamin 19073365d
  */
 public class Video extends Item
 {
